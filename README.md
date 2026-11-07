@@ -40,6 +40,5 @@
 ### 📈 Activité GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=durelteumo-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=durelteumo-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=durelteumo-tech&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Stats GitHub" />
 </div>
