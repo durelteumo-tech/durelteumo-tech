@@ -40,5 +40,6 @@
 ### 📈 Activité GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=durelteumo-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=durelteumo-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=durelteumo-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" />
 </div>
