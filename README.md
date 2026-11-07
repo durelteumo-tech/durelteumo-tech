@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Bannière animée Capsule Render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b49,100:007acc&height=180&section=header&text=Durel%20Wilfried%20TEUMO&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Student%20in%20Statistical%20Engineering%20%26%20Economics&descAlignY=65&descAlign=50" width="100%"/>
+  <!-- Bannière épurée et fiable via Shields.io -->
+  <img src="https://img.shields.io/badge/Durel_Wilfried_TEUMO-Statistician_&_Data_Scientist-002b49?style=for-the-badge&logo=github&logoColor=white&labelColor=007acc" height="40" alt="Bannière"/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/teumo-durel-681683344/" target="_blank">
@@ -37,9 +37,9 @@
 
 ---
 
-### 📈 Statistiques GitHub
+### 📈 Activité GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durelteumo-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durelteumo-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" />
+  <!-- GitHub Readme Activity Graph (beaucoup plus stable et ne dépasse jamais les quotas) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=durelteumo-tech&theme=tokyo-night&hide_border=true" width="95%" alt="Graphique d'activité GitHub" />
 </div>
