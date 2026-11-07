@@ -40,6 +40,5 @@
 ### 📈 Activité GitHub
 
 <div align="center">
-  <!-- GitHub Readme Activity Graph (beaucoup plus stable et ne dépasse jamais les quotas) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=durelteumo-tech&theme=tokyo-night&hide_border=true" width="95%" alt="Graphique d'activité GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=durelteumo-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
