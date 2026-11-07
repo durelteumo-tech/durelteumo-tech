@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b49,100:007acc&height=180&section=header&text=Durel%20Wilfried%20TEUMO&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Student%20in%20Statistical%20Engineering%20%26%20Economics&descAlignY=65&descAlign=50" width="100%"/>
 
   <p align="center">
-    <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:ton-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/teumo-durel-681683344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:durelteumo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
